@@ -89,7 +89,7 @@ This repository contains an implementation of the Advanced Encryption Standard (
 
 ## Contact
 
-For any questions or issues, please contact sarakhaled.kaz@example.com.
+For any questions or issues, please contact sarakhaled.kaz@gmail.com.
 
 ---
 
